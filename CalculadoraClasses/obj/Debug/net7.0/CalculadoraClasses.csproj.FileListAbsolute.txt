@@ -1,0 +1,28 @@
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.exe
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.deps.json
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.runtimeconfig.json
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.dll
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.pdb
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.AssemblyInfoInputs.cache
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.AssemblyInfo.cs
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.csproj.CoreCompileInputs.cache
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.dll
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\refint\CalculadoraClasses.dll
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.pdb
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.genruntimeconfig.cache
+C:\Users\Caio Molinaro\Desktop\caio\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\ref\CalculadoraClasses.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\bin\Debug\net7.0\CalculadoraClasses.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\refint\CalculadoraClasses.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\CalculadoraClasses.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraClasses\CalculadoraClasses\obj\Debug\net7.0\ref\CalculadoraClasses.dll
